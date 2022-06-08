@@ -97,9 +97,10 @@ useEffect(()=>{
 <div className='child-div'>
 
 
-    <figure>
+    <figure  classname="bg-img">
 
-        <img src="./todo.svg" alt="todologo" />
+          <h1>Todo List </h1>
+      
         <figcaption>Add Your List Here ✌ </figcaption>
     </figure>
     <div className='addItems'>
