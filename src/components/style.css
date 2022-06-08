@@ -227,3 +227,8 @@ input:focus {
   -webkit-transform: translateY(0) scale(1, 1);
   transform: translateY(0) scale(1, 1);
 }
+.bg-img{
+    background-image: -moz-linear-gradient("https://th.bing.com/th/id/OIP.6uwm8PYiI5nHDqLt7VPb5wHaE7?pid=ImgDet&rs=1");
+}
+
+
